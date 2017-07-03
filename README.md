@@ -1,4 +1,4 @@
-# exercise code for micro:bit
+# exercise code for [micro:bit with makecode](https://makecode.microbit.org/)
 
 ## 1 counter: use the variable
 ### 1.1 counter with shake
