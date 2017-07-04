@@ -1,6 +1,6 @@
 # exercise code for [micro:bit with makecode](https://makecode.microbit.org/)
 
-## 1 counter: use the variable
+## Day 1 counter: use the variable
 ### 1.1 counter with shake
 * micro-bit display 0 at the start
 * plus 1 and show the number when the micro-bit is shaked once
@@ -16,7 +16,7 @@
 * plus one with one press of button A
 * minus one with one press of button B
 
-## 2 timer: use if..then.. and if..then..else..
+## Day 2 timer: use if..then.. and if..then..else..
 ### 2.1 10-second timer
 * start with 10, down-count to 0
 * when it is 0, beep once, then stop
