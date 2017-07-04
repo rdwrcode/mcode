@@ -29,7 +29,7 @@
 * use button B to pause/resuem the timer
 
 ### 2.4 10-second timer with reset and play/resume
-* use button A to reset the timer, Button A shoule override Button B.
+* use button A to reset the timer, Button A can override Button B.
 * use button B to pause/resuem the timer
 
 
