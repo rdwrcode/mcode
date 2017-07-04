@@ -21,14 +21,14 @@
 * start with 10, down-count to 0
 * when it is 0, beep once, then stop
 
-## 2.2 10-second timer with reset
+### 2.2 10-second timer with reset
 * use button A to reset the timer
 
-## 2.3 10-second timer with reset and play/resume
+### 2.3 10-second timer with reset and play/resume
 * use button A to reset the timer
 * use button B to pause/resuem the timer
 
-## 2.4 10-second timer with reset and play/resume
+### 2.4 10-second timer with reset and play/resume
 * use button A to reset the timer, Button A shoule override Button B.
 * use button B to pause/resuem the timer
 
