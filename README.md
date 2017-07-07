@@ -1,5 +1,7 @@
 # exercise code for [micro:bit with makecode](https://makecode.microbit.org/)
 
+![pinout](https://github.com/rdwrcode/mcode/blob/master/images/microbit-pinout.png)
+
 ## Day 1 counter: use the variable
 ### 1.1 counter with shake
 * micro-bit display 0 at the start
@@ -31,5 +33,9 @@
 ### 2.4 10-second timer with reset and play/resume
 * use button A to reset the timer, Button A can override Button B.
 * use button B to pause/resuem the timer
+
+## Day 3 music
+* play a tune when button A is pressed
+* play another tune when button B is pressed
 
 
